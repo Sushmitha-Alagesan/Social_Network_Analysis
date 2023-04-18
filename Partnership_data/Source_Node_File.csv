@@ -1,0 +1,624 @@
+,Frequency,Name,Label,Type,Id
+0,2,  Empact  - Suicide Prevention Center,Community_org,1,0
+1,3, Deli,Community_org,1,1
+2,3, and Bakery,Community_org,1,2
+3,4,33 Buckets,Community_org,1,3
+4,5,A New Leaf,Community_org,1,4
+5,3,APS,Community_org,1,5
+6,2,ASU Alumni Association - Washington DC Chapter,Community_org,1,6
+7,5,ASU Prep South Phoenix Primary/Intermediate School,Community_org,1,7
+8,2,ASU Preparatory Academy-Filmore,Community_org,1,8
+9,1,AVID Arizona,Community_org,1,9
+10,2,AZ Burn Foundation,Community_org,1,10
+11,3,AZ Green Chamber of Commerce,Community_org,1,11
+12,6,Ability 360,Community_org,1,12
+13,5,Achieve60AZ Alliance,Community_org,1,13
+14,5,Adidas,Community_org,1,14
+15,3,Akron Summit County Public Library,Community_org,1,15
+16,3,Alamo Drafthouse Theater,Community_org,1,16
+17,1,Alhambra Elementary School District,Community_org,1,17
+18,3,Alhambra High School,Community_org,1,18
+19,1,Alzheimer's Association Desert Southwest Chapter,Community_org,1,19
+20,2,American Cancer Society,Community_org,1,20
+21,2,American Immigration Lawyers Association - Arizona Chapter,Community_org,1,21
+22,3,American Modeling Teachers Association,Community_org,1,22
+23,2,American Public Health Association,Community_org,1,23
+24,2,American Red Cross,Community_org,1,24
+25,3,American Samoa Environmental Protection Agency Puipui Ma Fa'asao Mo Taeao,Community_org,1,25
+26,2,Anti Recidivism Coalition,Community_org,1,26
+27,2,Apache Junction Chamber of Commerce,Community_org,1,27
+28,2,Apache Junction News,Community_org,1,28
+29,3,Apache Junction Public Library,Community_org,1,29
+30,5,Arcosanti,Community_org,1,30
+31,1,Area Agency on Aging,Community_org,1,31
+32,4,Argent Strategies,Community_org,1,32
+33,3,Arizona Attorney General's Office,Community_org,1,33
+34,3,Arizona Cancer Center,Community_org,1,34
+35,3,Arizona Center for Nature Conservation,Community_org,1,35
+36,2,Arizona Commission for Postsecondary Education,Community_org,1,36
+37,1,Arizona Commission on the Arts,Community_org,1,37
+38,2,Arizona Council for History Education,Community_org,1,38
+39,1,Arizona Court Of Appeals,Community_org,1,39
+40,2,Arizona Department of Child Safety - Apache Junction,Community_org,1,40
+41,9,Arizona Department of Child Safety - Central Office,Community_org,1,41
+42,2,Arizona Department of Child Safety - Sierra Vista,Community_org,1,42
+43,2,Arizona Department of Corrections - Florence,Community_org,1,43
+44,2,Arizona Department of Corrections - Maricopa Reentry Center,Community_org,1,44
+45,1,Arizona Department of Education,Community_org,1,45
+46,5,Arizona Department of Emergency and Military Affairs,Community_org,1,46
+47,8,Arizona Department of Health Services,Community_org,1,47
+48,1,Arizona Department of Juvenile Corrections,Community_org,1,48
+49,2,Arizona Developmental Disabilities Planning Council,Community_org,1,49
+50,2,Arizona Diamondbacks,Community_org,1,50
+51,1,Arizona Disabled Sports,Community_org,1,51
+52,2,Arizona Division of Occupational Safety and Health,Community_org,1,52
+53,4,Arizona Forward,Community_org,1,53
+54,2,Arizona Game and Fish Department,Community_org,1,54
+55,2,Arizona Genealogical Advisory Board,Community_org,1,55
+56,5,Arizona Historical Society,Community_org,1,56
+57,2,Arizona Justice Project,Community_org,1,57
+58,3,Arizona Legal Center,Community_org,1,58
+59,4,Arizona Microcredit Initiative,Community_org,1,59
+60,1,Arizona Office of the Governor,Community_org,1,60
+61,2,Arizona School for the Arts,Community_org,1,61
+62,2,Arizona Science Center,Community_org,1,62
+63,3,Arizona State Historic Preservation Office,Community_org,1,63
+64,14,Arizona State Legislature,Community_org,1,64
+65,2,Arizona State Parks and Trails,Community_org,1,65
+66,5,Arizona Sustainability Alliance,Community_org,1,66
+67,2,Arizona Town Hall,Community_org,1,67
+68,2,Arizona Voice for Crime Victims,Community_org,1,68
+69,1,Armchair Crisis Design,Community_org,1,69
+70,2,Association of Accredited Naturopathic Medical Colleges,Community_org,1,70
+71,3,BAMbox Produce,Community_org,1,71
+72,2,Bad Craft Studio,Community_org,1,72
+73,2,Balsz Elementary School District,Community_org,1,73
+74,3,Bank of America Private Bank,Community_org,1,74
+75,2,Bank of the West,Community_org,1,75
+76,5,Banner Health,Community_org,1,76
+77,1,Banner Health - Banner Boswell Skilled Nursing Rehabilitation Center,Community_org,1,77
+78,1,Banner Health - Banner Thunderbird Medical Center,Community_org,1,78
+79,1,Banner Health - University Medical Center Phoenix,Community_org,1,79
+80,3,Bayer,Community_org,1,80
+81,2,Bayless Integrated Healthcare,Community_org,1,81
+82,11,Be A Leader Foundation,Community_org,1,82
+83,2,Bernard Black Elementary School,Community_org,1,83
+84,2,Big Brothers Big Sisters of Central Arizona,Community_org,1,84
+85,1,Borderlands Produce Rescue,Community_org,1,85
+86,7,Boys & Girls Clubs of Metro Phoenix,Community_org,1,86
+87,4,Brettapproved,Community_org,1,87
+88,10,Burt's Bees,Community_org,1,88
+89,3,CYBER.ORG,Community_org,1,89
+90,1,Camelback Canyon Estates Homeowners Association,Community_org,1,90
+91,2,Camp Courageous,Community_org,1,91
+92,2,Cancer Support Community Arizona,Community_org,1,92
+93,2,Carbon Nation,Community_org,1,93
+94,2,CareSource,Community_org,1,94
+95,5,Carl Hayden Community High School,Community_org,1,95
+96,21,Cartwright Elementary School District,Community_org,1,96
+97,1,Catholic Charities Arizona,Community_org,1,97
+98,2,Cave Creek Unified School District,Community_org,1,98
+99,3,Center for the Future of Arizona,Community_org,1,99
+100,8,Cesar Chavez High School,Community_org,1,100
+101,1,Challenge Lyfe,Community_org,1,101
+102,2,Chandler Chamber of Commerce,Community_org,1,102
+103,6,Chandler Unified School District,Community_org,1,103
+104,1,Changing Hands Bookstore,Community_org,1,104
+105,3,Chemonics,Community_org,1,105
+106,15,Chicanos Por La Causa,Community_org,1,106
+107,4,Chicanos Por La Causa - Centro De La Familia,Community_org,1,107
+108,4,Chicanos Por La Causa - De Colores,Community_org,1,108
+109,2,Chicanos Por La Causa - LUCES Program,Community_org,1,109
+110,8,Child & Family Service,Community_org,1,110
+111,3,Children First Leadership Academy,Community_org,1,111
+112,3,Children’s Museum of Phoenix,Community_org,1,112
+113,2,Chinle Unified School District,Community_org,1,113
+114,2,Chispa,Community_org,1,114
+115,4,Cholla High School,Community_org,1,115
+116,3,Chompie's Restaurant,Community_org,1,116
+117,1,City of Apache Junction,Community_org,1,117
+118,1,City of Glendale,Community_org,1,118
+119,6,City of Glendale - Fire Department - Crisis Response Team,Community_org,1,119
+120,11,City of Mesa,Community_org,1,120
+121,2,City of Mesa - City Projects - Downtown Revitalization,Community_org,1,121
+122,1,City of Minneapolis,Community_org,1,122
+123,12,City of Peoria,Community_org,1,123
+124,13,City of Phoenix,Community_org,1,124
+125,17,City of Phoenix - Police,Community_org,1,125
+126,6,City of Phoenix - Street Transportation Department,Community_org,1,126
+127,2,City of Surprise,Community_org,1,127
+128,2,City of Surprise - Human Service & Community Vitality - Surprise SciTech Festival,Community_org,1,128
+129,7,City of Tempe,Community_org,1,129
+130,1,City of Tempe - Community Services,Community_org,1,130
+131,2,City of Tempe - Human Services - Care 7,Community_org,1,131
+132,4,City of Tucson,Community_org,1,132
+133,10,Colgate-Palmolive Company,Community_org,1,133
+134,1,Collaboratory,Community_org,1,134
+135,2,College Connect Tempe,Community_org,1,135
+136,3,College Success Arizona,Community_org,1,136
+137,1,Commercial Properties,Community_org,1,137
+138,2,Community Bridges,Community_org,1,138
+139,2,Community Legal Services,Community_org,1,139
+140,4,Confederated Tribes of the Colville  Reservation,Community_org,1,140
+141,4,Conservation International,Community_org,1,141
+142,5,Corazon Latino,Community_org,1,142
+143,2,Cornerstone Behavioral Health: El Dorado,Community_org,1,143
+144,3,Cornerstones for Science,Community_org,1,144
+145,2,Corona del Sol High School,Community_org,1,145
+146,2,Coronado High School,Community_org,1,146
+147,2,Coushatta Tribe of Louisiana,Community_org,1,147
+148,1,Cox Communications,Community_org,1,148
+149,3,Creighton School District,Community_org,1,149
+150,15,Creosote Partners,Community_org,1,150
+151,8,Crossroads,Community_org,1,151
+152,2,Daughters of the American Revolution,Community_org,1,152
+153,2,David and Margaret Youth and Family Services,Community_org,1,153
+154,1,Dayspring United Methodist Church,Community_org,1,154
+155,1,Defense Advanced Research Projects Agency,Community_org,1,155
+156,4,Desert Botanical Garden,Community_org,1,156
+157,4,Desert View High School,Community_org,1,157
+158,1,Devour Phoenix Restaurant Coalition,Community_org,1,158
+159,3,Diana Gregory Outreach Services,Community_org,1,159
+160,1,Dibble Engineering,Community_org,1,160
+161,4,Digital Smoke Signals,Community_org,1,161
+162,1,Dignity Health - Mercy Gilbert Medical Center,Community_org,1,162
+163,9,Dignity Health - St. Joseph's Hospital and Medical Center,Community_org,1,163
+164,2,Dignity Health - Yavapai Regional Medical Center,Community_org,1,164
+165,2,Diocese of Phoenix (attn: Kevin Starrs),Community_org,1,165
+166,6,Dion Initiative for Child Well-Being and Bullying Prevention,Community_org,1,166
+167,1,Dobson Montessori School - K-12 Campus,Community_org,1,167
+168,2,Doorways Housing,Community_org,1,168
+169,1,Down Syndrome Network Arizona,Community_org,1,169
+170,2,Duet Arizona,Community_org,1,170
+171,3,Dysart Unified School District,Community_org,1,171
+172,1,ESAT Jean Moulin - Entraide Union,Community_org,1,172
+173,4,East Valley NAACP,Community_org,1,173
+174,3,Education Forward Arizona,Community_org,1,174
+175,1,Educopia Institute,Community_org,1,175
+176,1,El Rio Community Health Center - El Pueblo,Community_org,1,176
+177,4,Energetics Technology Center,Community_org,1,177
+178,4,Equal Not Less Project,Community_org,1,178
+179,5,Estrella Foothills High School ,Community_org,1,179
+180,4,Everybody Matters,Community_org,1,180
+181,3,Eye Cue Mental Health,Community_org,1,181
+182,2,F.A.B.R.I.C.,Community_org,1,182
+183,2,Family History Society of Arizona,Community_org,1,183
+184,5,Federal Emergency Management Agency,Community_org,1,184
+185,3,FilmBar,Community_org,1,185
+186,2,First Star ,Community_org,1,186
+187,1,Flagstaff Extreme Adventure Course (FLG X),Community_org,1,187
+188,4,Florence Immigrant & Refugee Rights Project,Community_org,1,188
+189,2,Follett Corporation,Community_org,1,189
+190,6,Foundation for Senior Living (FSL),Community_org,1,190
+191,2,Franklin Elementary School,Community_org,1,191
+192,3,Freeport-McMoRan Inc.,Community_org,1,192
+193,4,Fresh Start Women's Foundation,Community_org,1,193
+194,7,Friendly House,Community_org,1,194
+195,2,Friendship Village,Community_org,1,195
+196,4,Future of Tech Commission,Community_org,1,196
+197,3,Garmin International,Community_org,1,197
+198,2,Gatopardo,Community_org,1,198
+199,2,Gilbert Chamber of Commerce,Community_org,1,199
+200,2,Gilbert Public School District,Community_org,1,200
+201,2,Glendale Elementary School District,Community_org,1,201
+202,7,Glendale Union High School District,Community_org,1,202
+203,4,Globe High School,Community_org,1,203
+204,4,GoLakeHavasu,Community_org,1,204
+205,2,Google Research India,Community_org,1,205
+206,6,Governor's Office of Maryland,Community_org,1,206
+207,1,Grand Canyon National Park,Community_org,1,207
+208,5,Great Communities Community Development Corporation,Community_org,1,208
+209,3,Greater Phoenix Economic Council,Community_org,1,209
+210,29,GreenLight Solutions Foundation,Community_org,1,210
+211,4,Greenfield Junior High,Community_org,1,211
+212,2,Havasu Community Health Foundation,Community_org,1,212
+213,9,Hawaii State Commission on the Status of Women,Community_org,1,213
+214,6,Health Outreach Through Medicine and Education (H.O.M.E.),Community_org,1,214
+215,19,Heard Museum,Community_org,1,215
+216,1,Heat Sync Labs,Community_org,1,216
+217,3,Helios Education Foundation,Community_org,1,217
+218,2,HerRights,Community_org,1,218
+219,2,Higley Unified School District,Community_org,1,219
+220,3,Ho'ola Na Pua,Community_org,1,220
+221,1,Honeywell Aerospace,Community_org,1,221
+222,3,Honolulu Police Department,Community_org,1,222
+223,2,HonorHealth,Community_org,1,223
+224,1,HonorHealth - John C. Lincoln Medical Center,Community_org,1,224
+225,1,HonorHealth Rehabilitation Hospital,Community_org,1,225
+226,1,HonorHealth Scottsdale Osborn Medical Center,Community_org,1,226
+227,2,HonorHealth Scottsdale Shea Medical Center,Community_org,1,227
+228,1,HonorHealth Scottsdale Thompson Peak Medical Center,Community_org,1,228
+229,1,Hopi Tribe,Community_org,1,229
+230,2,House of Genius,Community_org,1,230
+231,2,Housing Authority of the City of Yuma,Community_org,1,231
+232,2,Human Resource Training,Community_org,1,232
+233,1,Humanity,Community_org,1,233
+234,1,Hunter Douglas Window Blinds,Community_org,1,234
+235,1,Hustle Phoenix,Community_org,1,235
+236,1,Ibersun,Community_org,1,236
+237,1,Ideality Incorporated,Community_org,1,237
+238,1,Igniting Discovery,Community_org,1,238
+239,1,Institut national de jeunes sourds de Paris,Community_org,1,239
+240,3,Institute for Digital Progress,Community_org,1,240
+241,1,Inter Tribal Council Of Arizona,Community_org,1,241
+242,1,Inter-American Development Bank,Community_org,1,242
+243,2,Inter-Parliamentary Union,Community_org,1,243
+244,3,International Rescue Committee - Phoenix,Community_org,1,244
+245,21,Isaac Elementary School District #5,Community_org,1,245
+246,7,Island Press,Community_org,1,246
+247,2,Jack Miller Center,Community_org,1,247
+248,4,Jewish Family & Children's Service,Community_org,1,248
+249,1,Jobs for the Future,Community_org,1,249
+250,6,Justa Center,Community_org,1,250
+251,1,Kaargo,Community_org,1,251
+252,3,Kenilworth Elementary School,Community_org,1,252
+253,2,Kiwanis Club of the Superstitions,Community_org,1,253
+254,2,Koinonia Family Services ,Community_org,1,254
+255,2,Kuwait Museum of Islamic Art,Community_org,1,255
+256,6,Kyrene School District,Community_org,1,256
+257,2,Kyrene del Pueblo Middle School,Community_org,1,257
+258,2,Kyrsten Sinema State Offices,Community_org,1,258
+259,2,LGBTQ Health Caucus,Community_org,1,259
+260,2,La Frontera Arizona,Community_org,1,260
+261,4,La Frontera Center Inc.,Community_org,1,261
+262,2,Labsphere,Community_org,1,262
+263,4,Lake Havasu Chamber of Commerce,Community_org,1,263
+264,2,Lake Havasu City Marine Assocation,Community_org,1,264
+265,3,Las Vegas Metropolitan Police Department,Community_org,1,265
+266,2,Latter-day Saints - Mesa InterStake Center,Community_org,1,266
+267,2,Learning by Giving Foundation,Community_org,1,267
+268,2,Lehr Garden,Community_org,1,268
+269,1,Levy Restaurants,Community_org,1,269
+270,1,Liberty High School - PUSD,Community_org,1,270
+271,6,Lincoln Family Downtown YMCA,Community_org,1,271
+272,2,Lincoln Middle School,Community_org,1,272
+273,4,Local First Arizona,Community_org,1,273
+274,3,Local First Arizona Foundation,Community_org,1,274
+275,3,Los Angeles Unified School District,Community_org,1,275
+276,2,Lost Our Home Pet Rescue,Community_org,1,276
+277,1,MISS Foundation,Community_org,1,277
+278,1,MOWA Choctaw Tribe of Alabama,Community_org,1,278
+279,3,Maricopa Association of Governments (MAG),Community_org,1,279
+280,2,Maricopa County - Flood Control District,Community_org,1,280
+281,5,Maricopa County - Office of the Medical Examiner,Community_org,1,281
+282,2,Maricopa County Attorney's Office,Community_org,1,282
+283,13,Maricopa County Department of Public Health,Community_org,1,283
+284,2,Maricopa County Parks and Recreation Commission,Community_org,1,284
+285,2,Maricopa County Public Defender's Office,Community_org,1,285
+286,9,Maricopa County Superior Court,Community_org,1,286
+287,2,Marion County Public Works -  Emergency Management Office,Community_org,1,287
+288,17,Maryvale High School,Community_org,1,288
+289,4,Mayo Clinic,Community_org,1,289
+290,2,Mayo Clinic Hospital,Community_org,1,290
+291,6,McDowell Sonoran Conservancy,Community_org,1,291
+292,1,Meals on Wheels America,Community_org,1,292
+293,2,Mental Health Center of Denver,Community_org,1,293
+294,6,Mercy Hill Church,Community_org,1,294
+295,3,Mesa Arts Center,Community_org,1,295
+296,2,Mesa Chamber of Commerce,Community_org,1,296
+297,2,Mesa Counts on College,Community_org,1,297
+298,3,Mesa Public Library,Community_org,1,298
+299,6,Mesa Public Schools,Community_org,1,299
+300,4,Mesa Public Schools Community Education,Community_org,1,300
+301,5,Metro Strategies,Community_org,1,301
+302,2,MidFirst Bank,Community_org,1,302
+303,1,Ministry of Education of the People's Republic of China,Community_org,1,303
+304,7,Mirabella Retirement Community,Community_org,1,304
+305,16,Mountain Park Health Center – Maryvale,Community_org,1,305
+306,2,Mountain Park Health Center – Tempe,Community_org,1,306
+307,1,Mucho Gusto Taqueria Mexican Bistro,Community_org,1,307
+308,2,Musician Enrichment Foundation,Community_org,1,308
+309,2,Myanmar - Ministry of Education - Department of Higher Education,Community_org,1,309
+310,1,National Aeronautics and Space Administration (NASA),Community_org,1,310
+311,1,National Association for College Admission Counseling (NACAC),Community_org,1,311
+312,2,National Association for the Advancement of Colored People (NAACP),Community_org,1,312
+313,3,National Center for Interactive Learning,Community_org,1,313
+314,3,National Criminal Justice Training Center,Community_org,1,314
+315,2,National Peace Corps Association,Community_org,1,315
+316,6,National Science Foundation (NSF),Community_org,1,316
+317,2,National Security Agency Central Security Service,Community_org,1,317
+318,2,National Society of the Sons of the American Revolution (NSSAR),Community_org,1,318
+319,2,Nations Finest ,Community_org,1,319
+320,1,Native American Bar Association of Arizona,Community_org,1,320
+321,6,Native American Connections,Community_org,1,321
+322,2,Native American Connections - Behavioral Health - Patina Wellness Center,Community_org,1,322
+323,2,Native American Connections - Phoenix Indian School Visitors Center,Community_org,1,323
+324,1,Native Health,Community_org,1,324
+325,3,Natural History Museum of Los Angeles County,Community_org,1,325
+326,3,Navajo Nation,Community_org,1,326
+327,5,Neighborhood Ministries,Community_org,1,327
+328,4,New Life Center ,Community_org,1,328
+329,3,Newtown CDC,Community_org,1,329
+330,1,OCP Group,Community_org,1,330
+331,3,Oakland Museum of California,Community_org,1,331
+332,6,Oasis Behavioral Health Hospital,Community_org,1,332
+333,2,Office of Mayor Kate Gallego​,Community_org,1,333
+334,2,Ohana Behavioral Health,Community_org,1,334
+335,2,Ombudsman Charter Northwest,Community_org,1,335
+336,1,Orcutt | Winslow,Community_org,1,336
+337,5,Osborn Elementary School District,Community_org,1,337
+338,6,Our Family Services,Community_org,1,338
+339,6,Paideia Academies,Community_org,1,339
+340,1,Palabras Bilingual Bookstore,Community_org,1,340
+341,1,Paradise Valley Unified School District,Community_org,1,341
+342,2,Pascua Yaqui Tribe,Community_org,1,342
+343,4,Peace Corps,Community_org,1,343
+344,2,Pechanga Band of Luiseño Indians,Community_org,1,344
+345,2,Pendergast Elementary School District,Community_org,1,345
+346,5,Peoria Unified School District,Community_org,1,346
+347,2,Performance Based Studies Research Group,Community_org,1,347
+348,1,PetSmart Inc.,Community_org,1,348
+349,1,Philadelphia Medical Reserve Corps,Community_org,1,349
+350,9,Phoenix Children's Hospital (PCH),Community_org,1,350
+351,5,Phoenix Elementary School District,Community_org,1,351
+352,1,Phoenix Mountain Post-Acute,Community_org,1,352
+353,3,Phoenix Pride,Community_org,1,353
+354,2,Phoenix Rescue Mission,Community_org,1,354
+355,22,Phoenix Union High School District,Community_org,1,355
+356,13,Phoenix Zoo,Community_org,1,356
+357,2,Phoenix-Mesa Gateway Airport,Community_org,1,357
+358,2,Phoenix–Mesa Gateway Airport Authority,Community_org,1,358
+359,4,Pima Community College ARC Resource Center and Food Pantry,Community_org,1,359
+360,1,Pima County JTED,Community_org,1,360
+361,10,Pinal County Juvenile Court Services ,Community_org,1,361
+362,2,Pioneers' Cemetery Association,Community_org,1,362
+363,2,Planned Parenthood Arizona,Community_org,1,363
+364,2,Poetry Foundation,Community_org,1,364
+365,2,Porter Elementary School,Community_org,1,365
+366,2,ProCAT [Proyecto de Conservación de Aguas y Tierras],Community_org,1,366
+367,10,Procter & Gamble,Community_org,1,367
+368,2,Prospect Ridge Academy,Community_org,1,368
+369,9,Public Allies Arizona,Community_org,1,369
+370,2,Quechan Indian Tribe,Community_org,1,370
+371,2,Queen Creek Unified School District,Community_org,1,371
+372,1,Recycled City LLC,Community_org,1,372
+373,1,Recyclops,Community_org,1,373
+374,1,Republic Services,Community_org,1,374
+375,1,Rheaply,Community_org,1,375
+376,2,Riksdag,Community_org,1,376
+377,4,Riverview School,Community_org,1,377
+378,1,Ronan Thompson Foundation,Community_org,1,378
+379,5,Roosevelt Elementary School District,Community_org,1,379
+380,4,Ruby Red Media LLC,Community_org,1,380
+381,3,SEED SPOT,Community_org,1,381
+382,10,SPIN Global ,Community_org,1,382
+383,2,Salad and Go,Community_org,1,383
+384,2,Salt River Pima-Maricopa Indian Community (SRPMIC),Community_org,1,384
+385,1,Salt River Project,Community_org,1,385
+386,2,San Carlos Apache Tribe,Community_org,1,386
+387,1,Science Foundation Arizona,Community_org,1,387
+388,5,Scottsdale Police Department ,Community_org,1,388
+389,3,Scottsdale Public Library - Civic Center Library,Community_org,1,389
+390,7,Scottsdale Unified School District,Community_org,1,390
+391,1,Second Nature,Community_org,1,391
+392,4,Sharp Mesa Vista,Community_org,1,392
+393,4,Sister Jose Women's Center,Community_org,1,393
+394,1,SolarCity,Community_org,1,394
+395,1,SolarThermiX,Community_org,1,395
+396,6,Solutions of Sobriety,Community_org,1,396
+397,3,South Mountain Environmental Education Center,Community_org,1,397
+398,5,South Mountain Works Coalition,Community_org,1,398
+399,3,Southeast Regional Library‎,Community_org,1,399
+400,2,Southwest Autism Research & Resource Center (SARRC),Community_org,1,400
+401,2,Southwest Behavioral & Health Services,Community_org,1,401
+402,1,Southwest Key Programs - Casa Phoenix,Community_org,1,402
+403,4,St. Joseph the Worker,Community_org,1,403
+404,1,Starbucks,Community_org,1,404
+405,3,Stardust Building Supplies,Community_org,1,405
+406,6,State Farm Insurance,Community_org,1,406
+407,2,Suncrest Hospice Home Health and Hospice,Community_org,1,407
+408,2,TG Barr Elementary School ,Community_org,1,408
+409,1,Teach For America,Community_org,1,409
+410,10,Team Select ,Community_org,1,410
+411,1,Tempe Community Action Agency,Community_org,1,411
+412,10,Tempe Elementary School District,Community_org,1,412
+413,3,Tempe History Museum,Community_org,1,413
+414,1,Tempe Korean Presbyterian Church,Community_org,1,414
+415,5,Tempe Public Library,Community_org,1,415
+416,4,Tempe Union High School District,Community_org,1,416
+417,1,Terrain.org,Community_org,1,417
+418,1,The 2 Courtiers,Community_org,1,418
+419,1,The American Academy of Diplomacy,Community_org,1,419
+420,4,The CORE Institute,Community_org,1,420
+421,4,The Chippewa Cree Tribe of the Rocky Boy Indian Reservation,Community_org,1,421
+422,2,The Church of Jesus Christ of Latter-day Saints,Community_org,1,422
+423,3,The Dunham School,Community_org,1,423
+424,1,The Ecological Society of America,Community_org,1,424
+425,5,The H.E.A.R.T. Center ,Community_org,1,425
+426,6,The Harden Education and Recreation Therapy Foundation (The H.E.A.R.T. Center),Community_org,1,426
+427,2,The Hualapai Tribe,Community_org,1,427
+428,1,The Kingdom of Morocco: Ministry of Education,Community_org,1,428
+429,3,The National Informal STEM Education Network,Community_org,1,429
+430,3,The Nature Conservancy,Community_org,1,430
+431,1,The Princeton Review,Community_org,1,431
+432,5,The Society of St. Vincent De Paul - The Ben & Catherine Ivy Foundation Center for Family Wellness,Community_org,1,432
+433,3,The Society of St. Vincent de Paul (SVDP),Community_org,1,433
+434,3,The Surge Network,Community_org,1,434
+435,10,The Sustainability Consortium (TSC),Community_org,1,435
+436,9,The Welcome to America Project,Community_org,1,436
+437,1,The World Bank,Community_org,1,437
+438,4,TigerMountain Foundation,Community_org,1,438
+439,3,Times Higher Education,Community_org,1,439
+440,3,Tohono O’odham Nation,Community_org,1,440
+441,2,Tolleson Elementary School District,Community_org,1,441
+442,7,Tolleson Union High School District,Community_org,1,442
+443,2,Tonto Creek Camp,Community_org,1,443
+444,2,Touchstone Health Services ,Community_org,1,444
+445,1,Town of Clarkdale,Community_org,1,445
+446,1,Town of Guadalupe,Community_org,1,446
+447,2,Turning Point Community Programs,Community_org,1,447
+448,1,U.S. Department of State,Community_org,1,448
+449,2,U.S. Green Building Council Arizona,Community_org,1,449
+450,1,U.S. Small Business Administration,Community_org,1,450
+451,2,U.S. State Department’s Bureau of Educational and Cultural Affairs,Community_org,1,451
+452,8,UMOM New Day Centers,Community_org,1,452
+453,5,UnidosUS,Community_org,1,453
+454,2,Union Mission ,Community_org,1,454
+455,2,Union of Concerned Scientists,Community_org,1,455
+456,2,United General District #304,Community_org,1,456
+457,5,United Healthcare ,Community_org,1,457
+458,1,United Nations,Community_org,1,458
+459,2,United States Agency for International Development (USAID),Community_org,1,459
+460,5,United States Courts,Community_org,1,460
+461,6,United States Department of Defense,Community_org,1,461
+462,1,United States Department of Veterans Affairs - Phoenix VA Health Care System - Carl T. Hayden VA Community Life Care,Community_org,1,462
+463,2,United States Holocaust Memorial Museum,Community_org,1,463
+464,5,Unlimited Potential,Community_org,1,464
+465,1,Utopia Smart City,Community_org,1,465
+466,9,Valencia Newcomer School,Community_org,1,466
+467,4,Valley Metro,Community_org,1,467
+468,5,Valley of the Sun United Way,Community_org,1,468
+469,11,Valley of the Sun YMCA,Community_org,1,469
+470,2,Vision Quest National ,Community_org,1,470
+471,2,Vitalyst Health Foundation,Community_org,1,471
+472,2,Voices for CASA Children,Community_org,1,472
+473,1,Volunteers of America - Senior Living - Westchester Senior Living,Community_org,1,473
+474,1,W.L. Gore and Associates,Community_org,1,474
+475,4,Walpole Island First Nation,Community_org,1,475
+476,4,Washington Elementary School District,Community_org,1,476
+477,2,Weld County Human Services - Child Welfare Department,Community_org,1,477
+478,1,Western Maricopa Education Center (WEST-MEC),Community_org,1,478
+479,7,White Mountain Apache Tribe,Community_org,1,479
+480,3,White Tank Library,Community_org,1,480
+481,3,Workuity,Community_org,1,481
+482,1,World Wide Fund for Nature,Community_org,1,482
+483,2,YWCA Metropolitan Phoenix,Community_org,1,483
+484,2,YWCA of Middle Tennessee ,Community_org,1,484
+485,3,Yuma Union High School District,Community_org,1,485
+486,6,one•n•ten,Community_org,1,486
+487,1, ASU's Center for Equality,ASU_Unit,2,487
+488,1, Compassion and Resilience,ASU_Unit,2,488
+489,3, Dance and Theatre,ASU_Unit,2,489
+490,8, Education and Research,ASU_Unit,2,490
+491,4, Eurasian and East European Studies,ASU_Unit,2,491
+492,7, Media + Engineering,ASU_Unit,2,492
+493,14, Philosophical and Religious Studies,ASU_Unit,2,493
+494,10, the Honors College,ASU_Unit,2,494
+495,1,ASU Art Museum,ASU_Unit,2,495
+496,61,ASU Libraries,ASU_Unit,2,496
+497,2,ASU Stardust Center,ASU_Unit,2,497
+498,4,ASU@Lake Havasu ,ASU_Unit,2,498
+499,5,Academic & Student Affairs,ASU_Unit,2,499
+500,2,Academic Alliances,ASU_Unit,2,500
+501,5,Academic Success Programs,ASU_Unit,2,501
+502,65,Access ASU,ASU_Unit,2,502
+503,1,Adidas and ASU Global Sport Alliance,ASU_Unit,2,503
+504,1,American Indian Policy Institute,ASU_Unit,2,504
+505,4,American Indian Student Support Services,ASU_Unit,2,505
+506,7,American Indian Studies,ASU_Unit,2,506
+507,10,Barrett,ASU_Unit,2,507
+508,1,Biodesign Institute,ASU_Unit,2,508
+509,3,Business and Finance,ASU_Unit,2,509
+510,7,Center Biodiversity Outcomes,ASU_Unit,2,510
+511,12,Center for Advanced Studies in Global Education,ASU_Unit,2,511
+512,8,Center for Advancing Interprofessional Practice,ASU_Unit,2,512
+513,5,Center for Applied Behavioral Health,ASU_Unit,2,513
+514,1,Center for Asian Research,ASU_Unit,2,514
+515,8,Center for Child Well-Being,ASU_Unit,2,515
+516,7,Center for Emergency Management and Homeland Security,ASU_Unit,2,516
+517,2,Center for Entrepreneurship,ASU_Unit,2,517
+518,4,Center for Global Health,ASU_Unit,2,518
+519,13,Center for Health Promotion and Disease Prevention,ASU_Unit,2,519
+520,2,Center for Indian Education,ASU_Unit,2,520
+521,4,Center for Innovation in Healthy & Resilient Aging,ASU_Unit,2,521
+522,1,Center for Mindfulness,ASU_Unit,2,522
+523,2,Center for Political Thought and Leadership,ASU_Unit,2,523
+524,3,Center for Problem-Oriented Policing,ASU_Unit,2,524
+525,1,Center for the Study of Race and Democracy,ASU_Unit,2,525
+526,11,College of Global Futures,ASU_Unit,2,526
+527,23,College of Health Solutions,ASU_Unit,2,527
+528,40,College of Integrative Sciences and Arts,ASU_Unit,2,528
+529,5,Community Resources & Development,ASU_Unit,2,529
+530,5,Congressman Ed Pastor Center for Politics and Public Service,ASU_Unit,2,530
+531,1,Corporate Engagement and Strategic Partnerships,ASU_Unit,2,531
+532,24,Dean's Office - College of Integrative Sciences and Arts,ASU_Unit,2,532
+533,5,Dean's Office - Herberger Institute for Design and the Arts,ASU_Unit,2,533
+534,5,Dean's Office - Sandra Day O'Connor College of Law,ASU_Unit,2,534
+535,4,Dean's Office - W.P. Carey School of Business,ASU_Unit,2,535
+536,17,Dean's Office - Watts College of Public Service and Community Solutions,ASU_Unit,2,536
+537,13,Department of English,ASU_Unit,2,537
+538,1,Department of Physics,ASU_Unit,2,538
+539,1,Department of Psychology,ASU_Unit,2,539
+540,11,Design Studio for Community Solutions,ASU_Unit,2,540
+541,6,EOSS Cultural Affairs,ASU_Unit,2,541
+542,7,EdPlus,ASU_Unit,2,542
+543,53,Edson College of Nursing and Health Innovation,ASU_Unit,2,543
+544,72,Educational Outreach and Student Services,ASU_Unit,2,544
+545,5,Educational Outreach and Student Services - Career Services,ASU_Unit,2,545
+546,3,Environmental Resource Management,ASU_Unit,2,546
+547,7,Global Futures Laboratory,ASU_Unit,2,547
+548,71,Global Institute of Sustainability and Innovation,ASU_Unit,2,548
+549,2,Global Launch,ASU_Unit,2,549
+550,13,Global Security Initiative ,ASU_Unit,2,550
+551,3,Graduate College,ASU_Unit,2,551
+552,40,Herberger Institute for Design and the Arts,ASU_Unit,2,552
+553,5,Hugh Downs School of Human Communication,ASU_Unit,2,553
+554,4,Institute for Humanities Research,ASU_Unit,2,554
+555,30,Ira A. Fulton Schools of Engineering,ASU_Unit,2,555
+556,14,J. Orin Edson Entrepreneurship + Innovation Institute,ASU_Unit,2,556
+557,5,Knowledge Enterprise,ASU_Unit,2,557
+558,1,Languages and Cultures,ASU_Unit,2,558
+559,6,Law Clinics,ASU_Unit,2,559
+560,2,Leadership and Interdisciplinary Studies,ASU_Unit,2,560
+561,3,Lincoln Center for Applied Ethics,ASU_Unit,2,561
+562,3,Lodestar Center for Philanthropy and Nonprofit Innovation,ASU_Unit,2,562
+563,34,Mary Lou Fulton Teachers College,ASU_Unit,2,563
+564,1,Mathematical & Natural Sciences,ASU_Unit,2,564
+565,4,Melikian Center: Russian,ASU_Unit,2,565
+566,12,New College of Interdisciplinary Arts and Sciences,ASU_Unit,2,566
+567,9,Office of American Indian Initiatives,ASU_Unit,2,567
+568,2,Office of Gender-based Violence,ASU_Unit,2,568
+569,1,Office of Scholarship & Innovation,ASU_Unit,2,569
+570,16,Office of Sex Trafficking Intervention Research,ASU_Unit,2,570
+571,19,Office of the President,ASU_Unit,2,571
+572,13,Office of the University Provost,ASU_Unit,2,572
+573,3,Osher Lifelong Learning Institute,ASU_Unit,2,573
+574,2,Other - Sandra Day O'Connor College of Law,ASU_Unit,2,574
+575,2,Participatory Governance Initiative,ASU_Unit,2,575
+576,25,Sandra Day O'Connor College of Law,ASU_Unit,2,576
+577,27,School for the Future of Innovation in Society,ASU_Unit,2,577
+578,6,School of Art,ASU_Unit,2,578
+579,7,School of Arts,ASU_Unit,2,579
+580,5,School of Civic & Economic Thought & Leadership,ASU_Unit,2,580
+581,63,School of Community Resources and Development,ASU_Unit,2,581
+582,42,School of Criminology and Criminal Justice,ASU_Unit,2,582
+583,2,School of Earth and Space Exploration,ASU_Unit,2,583
+584,3,School of Film,ASU_Unit,2,584
+585,9,School of Geographical Sciences and Urban Planning,ASU_Unit,2,585
+586,14,School of Historical,ASU_Unit,2,586
+587,13,School of International Letters and Cultures,ASU_Unit,2,587
+588,4,School of Life Sciences,ASU_Unit,2,588
+589,10,School of Mathematical and Natural Sciences,ASU_Unit,2,589
+590,2,School of Molecular Sciences,ASU_Unit,2,590
+591,8,School of Music,ASU_Unit,2,591
+592,48,School of Public Affairs,ASU_Unit,2,592
+593,3,School of Social Transformation,ASU_Unit,2,593
+594,101,School of Social Work,ASU_Unit,2,594
+595,54,School of Sustainability,ASU_Unit,2,595
+596,7,Social & Behavioral Sciences,ASU_Unit,2,596
+597,2,Southwest Interdisciplinary Research Center (SIRC),ASU_Unit,2,597
+598,2,Speech & Hearing Science,ASU_Unit,2,598
+599,1,Student Media,ASU_Unit,2,599
+600,1,Sustainable Cities Network (SCN),ASU_Unit,2,600
+601,8,T. Denny Sanford School of Social and Family Dynamics,ASU_Unit,2,601
+602,2,The Center for the Study of Economic Liberty,ASU_Unit,2,602
+603,4,The College - Humanities,ASU_Unit,2,603
+604,18,The College of Liberal Arts and Sciences,ASU_Unit,2,604
+605,11,The Design School,ASU_Unit,2,605
+606,1,The Difference Engine,ASU_Unit,2,606
+607,4,The Polytechnic School,ASU_Unit,2,607
+608,2,The Virginia G. Piper Center for Creative Writing,ASU_Unit,2,608
+609,14,Thunderbird School of Global Management,ASU_Unit,2,609
+610,8,Thunderbird for Good,ASU_Unit,2,610
+611,8,Undergraduate Programs,ASU_Unit,2,611
+612,6,University Affairs,ASU_Unit,2,612
+613,6,University City Exchange,ASU_Unit,2,613
+614,4,University College,ASU_Unit,2,614
+615,3,University Housing,ASU_Unit,2,615
+616,4,University Sustainability Practices,ASU_Unit,2,616
+617,3,University Technology Office ,ASU_Unit,2,617
+618,6,Urban Climate Research Center,ASU_Unit,2,618
+619,23,W.P. Carey School of Business,ASU_Unit,2,619
+620,1,Walter Cronkite School of Journalism and Mass Communication,ASU_Unit,2,620
+621,10,Walton Sustainability Solutions Initiatives,ASU_Unit,2,621
+622,120,Watts College of Public Service and Community Solutions,ASU_Unit,2,622
